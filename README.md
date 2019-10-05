@@ -1,2 +1,2 @@
 # hello-world
-This repository created for practicing github.g
+This repository created for practicing github
